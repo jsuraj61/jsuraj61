@@ -1,20 +1,17 @@
 <h1 align="left">Hi 👋, I'm Suraj Jadhavar</h1>
 <h3 align="left">Software Engineer</h3>
 
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=ecf05e47oarhdsphpwghhykeq0rm2ocavf2uczes1bmdlioj&rid=giphy.gif&ct=g">
+<img align="right" alt="coding" width="300" src="https://media3.giphy.com/media/WtTnAfZn6aVJfBzlN3/giphy.gif?cid=ecf05e47oarhdsphpwghhykeq0rm2ocavf2uczes1bmdlioj&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsuraj61&label=Profile%20views&color=0e75b6&style=flat" alt="jsuraj61" /> </p>
 
-- 🌱 Software Developer
 -  Completed Post Grauduation Diploma from CDAC
 
 - 👨‍💻 All of my projects are available at [https://github.com/jsuraj61](https://github.com/jsuraj61)
 
-- 📫 How to reach me **https://www.linkedin.com/in/suraj-jadhavar-a80704214/**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/suraj-jadhavar-a80704214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jsuraj61" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/suraj-jadhavar-a80704214/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jsuraj61" height="30" width="30" /></a>
 <!-- <a href="https://instagram.com/simplified_learner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a> -->
 </p>
 
