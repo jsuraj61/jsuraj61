@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsuraj61&label=Profile%20views&color=0e75b6&style=flat" alt="jsuraj61" /> </p>
 
-- 🌱 I’m currently learning **Advanced Java,DotNet 7.0 Core**
+- 🌱 Software Developer
+-  Completed Post Grauduation Diploma from CDAC
 
 - 👨‍💻 All of my projects are available at [https://github.com/jsuraj61](https://github.com/jsuraj61)
 
